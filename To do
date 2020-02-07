@@ -1,6 +1,6 @@
-1) Try with ecommerce data, and attempt clustering on the embeddings.
+1) Try with new ecommerce data, and attempt tsne visualisation and clustering on the embeddings.
 
-2) Try applying ecommerce data to learn embeddings:
+2) Try applying ecommerce data to learn embeddings using the detailed way:
 https://github.com/WillKoehrsen/wikipedia-data-science/blob/master/notebooks/Book%20Recommendation%20System.ipynb
 
 References:

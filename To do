@@ -1,0 +1,8 @@
+1) Try with ecommerce data, and attempt clustering on the embeddings.
+
+2) Try applying ecommerce data to learn embeddings:
+https://github.com/WillKoehrsen/wikipedia-data-science/blob/master/notebooks/Book%20Recommendation%20System.ipynb
+
+References:
+https://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/
+https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484
